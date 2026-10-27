@@ -1,4 +1,4 @@
-# Java-Programs
+# Java Practice
 
 Java practice workspace containing a small console calculator and a set of language exercises, kept as two IntelliJ projects.
 
